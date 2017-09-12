@@ -1,0 +1,6 @@
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+\\jacstudents\students\1795845\NetProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
