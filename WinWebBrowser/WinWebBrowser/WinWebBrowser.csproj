@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90B2F792-8253-4821-814B-5BEDB617B1EB}</ProjectGuid>
+    <ProjectGuid>{5906B28B-59DC-4833-81CC-C18F52BA00EC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SayHello</RootNamespace>
-    <AssemblyName>SayHello</AssemblyName>
+    <RootNamespace>WinWebBrowser</RootNamespace>
+    <AssemblyName>WinWebBrowser</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -64,7 +64,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
